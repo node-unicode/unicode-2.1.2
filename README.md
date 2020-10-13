@@ -1,4 +1,4 @@
-# Unicode v2.1.2 data
+# Unicode v2.1.2 data [![@unicode/unicode-2.1.2 on npm](https://img.shields.io/npm/v/@unicode/unicode-2.1.2)](https://www.npmjs.com/package/@unicode/unicode-2.1.2)
 
 JavaScript-compatible Unicode data for use in Node.js. Included: arrays of code points, arrays of symbols, and regular expressions for Unicode v2.1.2’s categories, scripts, script extensions, blocks, and properties, as well as bidi mirroring and case folding data.
 
