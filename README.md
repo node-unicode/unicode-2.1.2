@@ -51,6 +51,11 @@ const directionality = require('@unicode/unicode-2.1.2/Bidi_Class').get(0x41);
 Other than categories, data on Unicode properties, blocks, scripts, and script extensions is available too (for recent versions of the Unicode standard). Here’s the full list of the available data for v2.1.2:
 
 ```js
+// `Names`:
+
+require('@unicode/unicode-2.1.2/Names/index.js'); // array of canonical names
+
+
 // `Binary_Property`:
 
 require('@unicode/unicode-2.1.2/Binary_Property/ASCII/code-points.js');
